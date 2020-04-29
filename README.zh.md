@@ -23,7 +23,7 @@
 ### 简单、自动的方法
 
 前往 
-[https://gdindex-albanymod-builder.glitch.me/](https://gdindex-albanymod-builder.glitch.me/)   <<<--多功能
+[https://gdindex-albanymod-builder.glitch.me/](https://gdindex-albanymod-builder.glitch.me/) <<<--多功能
 [https://gdindex-code-builder.glitch.me/](https://gdindex-code-builder.glitch.me/)
 (英文) 并遵照它的指示。
 
