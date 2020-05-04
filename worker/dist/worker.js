@@ -1,10 +1,10 @@
 self.props = {
-	title: 'GDIndex',// 自改
-	default_root_id: 'root',
+	title: 'GDIndex',//網站 Titl 自改
+	default_root_id: 'root',//填寫共享目錄ID
 	client_id: '202264815644.apps.googleusercontent.com',
 	client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-	refresh_token: '',
-	auth: false,
+	refresh_token: '',//分享帳號 refresh token
+	auth: false, // auth 設 true 與 user pass 不能分享外連下載
 	user: '',
 	pass: '',
 	upload: false,
